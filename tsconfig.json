@@ -2,10 +2,8 @@
   "include": [
     "./src/*",
     "./server/*",
-    "./decs/*"
   ],
   "compilerOptions": {
-    "outDir": "./public/dist",
     "strict": true,
     "esModuleInterop": true,
     "jsx": "react",
